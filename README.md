@@ -28,7 +28,7 @@
 <hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanjaykumardk&show_icons=true&locale=en" alt="sanjaykumardk" /></p>
+<p><img align="left" width="485px" src="https://github-readme-stats.vercel.app/api?username=sanjaykumardk&show_icons=true&locale=en" alt="sanjaykumardk" /></p>
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaykumardk&" alt="sanjaykumardk" /></p>
+<p><img align="right" width="485px" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaykumardk&" alt="sanjaykumardk" /></p>

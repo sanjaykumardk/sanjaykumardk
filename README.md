@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/e4/19/97/e41997a7e624239e587b27fe07f15367.gif)
 <hr>
-<h1 align="center">Hi 👋, I'm Sanjay Kumar D K</h1>
+<h1 align="center">Hi ! , I'm Sanjay Kumar D K</h1>
 <h3 align="center">A passionate Cybersecurity and Blockchain aspirant from India.</h3>
 <hr>
 <img align="right" alt="Bruce Wayne" width="400" src="https://cdn.dribbble.com/users/1454037/screenshots/5360175/media/4296ab461fbb79f04f3d3ab9b5a54c9b.gif">

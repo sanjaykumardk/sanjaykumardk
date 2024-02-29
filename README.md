@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanjaykumar_dk" target="blank"><img src="https://img.shields.io/twitter/follow/sanjaykumar_dk?logo=twitter&style=for-the-badge" alt="sanjaykumar_dk" /></a> </p>
 
-- 🌱 I’m currently learning **Linux file system, Security +, AZ-900**
+- 🌱 I’m currently learning **Linux file system, Security+, Azure AZ-900**
 
 - 💬 Ask me about **Computer Systems, Networks, Unauthorized accesses**
 

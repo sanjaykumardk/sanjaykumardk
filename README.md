@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/e4/19/97/e41997a7e624239e587b27fe07f15367.gif)
+/*![MasterHead](https://i.pinimg.com/originals/e4/19/97/e41997a7e624239e587b27fe07f15367.gif)*/
 <hr>
 <h1 align="center">Hi ! , I'm Sanjay Kumar D K</h1>
 <h3 align="center">A passionate Cybersecurity and Cloud Computing aspirant from India.</h3>
